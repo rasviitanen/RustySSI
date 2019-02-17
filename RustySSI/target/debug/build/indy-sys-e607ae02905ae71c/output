@@ -1,0 +1,4 @@
+cargo:rerun-if-env-changed=LIBINDY_DIR
+cargo:rerun-if-env-changed=LIBINDY_STATIC
+cargo:rerun-if-env-changed=LIBINDY_PKG
+cargo:rustc-link-lib=dylib=indy
