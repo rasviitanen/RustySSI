@@ -1,1 +1,0 @@
-{"rustc":0,"features":"","target":0,"profile":0,"path":0,"deps":[],"local":[{"EnvBased":["LIBINDY_DIR",null]},{"EnvBased":["LIBINDY_STATIC",null]},{"EnvBased":["LIBINDY_PKG",null]}],"rustflags":[],"edition":"Edition2015"}
